@@ -71,13 +71,13 @@
   <a href="https://www.linkedin.com/in/leonel-valdivia-terrera-95b165281" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="leonelurielvaldiviaterrera@gmail.com" target="blank">
+  <a href="mailto:leonelurielvaldiviaterrera@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" />
   </a>
   <a href="https://github.com/leovaldi" target="blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
-  <a href="https://www.instagram.com/leouvaldivia?igsh=MWQzOWtqZnNlOGox&utm_source=qr" target="blank">
+  <a href="https://www.instagram.com/leouvaldivia" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50"/>
   </a>
 </p>
