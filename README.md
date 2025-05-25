@@ -16,7 +16,7 @@
 <!-- h2 quote -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"Learning never exhausts the mind."</h2></summary>
+    <summary><h2 style="display: inline-block">"Success it's the addition of small efforts repeated day after day."</h2></summary>
   </ul>
 </div>
 
@@ -24,12 +24,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm an advanced Software Development student at Universidad Nacional de Cuyo.
+- 🎓 I’m an advanced Software Development student at Universidad Nacional de Cuyo.
 - 💡 Passionate about software development, teamwork, and continuous learning.
-- 🧠 Currently exploring **Cloud, DevOps, and backend development** with Node.js and Docker.
-- 📦 Certified in **AWS Academy Cloud Foundations**.
-- 💻 Hands-on experience with full stack academic projects using Java, JavaScript, SQL, React and more.
-
+- 🧠 Currently exploring various technologies, with a focus on React, Node.js (front-end and back-end), and related frameworks.
+- 📦 Certified in AWS Academy Cloud Foundations.
+- 📊 Currently enrolled in Henry’s Data Analytics Bootcamp to expand my knowledge in data analysis.
+- 💻 Trainee with hands-on experience in full-stack development, working with Java, JavaScript, SQL, React, and more.
 ---
 
 ## 🧰 Tech Stack
@@ -69,13 +69,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonel-valdivia-terrera-95b165281" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="mailto:leonelurielvaldiviaterrera@gmail.com" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" />
+  <a href="leonelurielvaldiviaterrera@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" />
   </a>
   <a href="https://github.com/leovaldi" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.instagram.com/leouvaldivia?igsh=MWQzOWtqZnNlOGox&utm_source=qr" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50"/>
   </a>
 </p>
 
