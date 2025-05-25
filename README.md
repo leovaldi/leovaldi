@@ -75,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" />
   </a>
   <a href="https://github.com/leovaldi" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
   <a href="https://www.instagram.com/leouvaldivia?igsh=MWQzOWtqZnNlOGox&utm_source=qr" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50"/>
@@ -83,11 +83,6 @@
 </p>
 
 ---
-
-<!-- Visit counter -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=leovaldi&icon=3&color=6" />
-</div>
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
